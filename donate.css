@@ -1,0 +1,159 @@
+#Container{
+	margin:auto; 
+	width:1500px;
+	border: 5px solid blue ;
+}
+
+#Header{
+	background-color: skyblue;
+	padding: 5px;
+	height: 150px; 
+	font-family:Comic Sans MS;
+}
+
+#Description{
+	width: 1480px;
+	height: 120px;
+	background-color: royalblue;
+	padding: 10px; 
+	font-family:Comic Sans MS;
+	
+}
+
+#Form{
+	width:1390px;
+	height: 810px;
+	background-color: lightcyan;
+	padding: 55px; 
+	background-image:url("images/donate_back.jpg"); 
+	font-family:Comic Sans MS;
+	background-size:1500px 920px;
+	background-repeat:no-repeat;
+}
+
+#Footer{
+	clear:both;
+	padding: 5px;
+	height: 50px;
+	background-color:yellow;
+}
+
+button{
+	background-color:royalblue;
+	margin:5px 5px 5px 0px;
+	padding:5px;
+	border:1;
+	border-color:darkred;
+	width:100px
+	height:60px;
+	font-size: 1.0em;
+	font-family: Comic Sans MS;
+	color:whitesmoke;
+	border-radius:12px;
+}
+
+input{
+	background-color:powderblue;
+	border:1;
+	border-color: steelblue;
+	height:20px;
+	color:darkblue;
+	padding-left:10px;
+	font-family: Comic Sans Ms;
+	border-radius:12px;
+}
+textarea{
+	background-color: powderblue;
+	border: 1;
+	border-color: steelblue;
+	color: darkblue;
+	padding-left: 10px;
+	font-family: Comic Sans Ms;
+	border-radius:12px;
+}
+select{
+	background-color: aliceblue;
+	border: 1;
+	border-color: steelblue;
+	color: mediumvioletred;
+	padding-left: 10px;
+	font-family: Comic Sans Ms;
+	border-radius:12px;
+}
+
+#body{
+width:1500px;
+height:70px;
+}
+
+#a{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#b{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#c{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#d{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#e{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#f{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+a{
+color:black;
+text-decoration:none;
+font-size: 1.4em;
+}
+
+a:active{
+color:black;
+text-decoration:none;
+}
+
+a:hover{
+color:black;
+font-size: 1.8em;
+border:outset 5px #2E86C1;
+background-color:skyblue;
+}

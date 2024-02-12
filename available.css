@@ -1,0 +1,126 @@
+#Container{
+	margin:auto;
+	width: 1500px;
+	border: 5px solid blue;
+}
+#Header{
+	background-color: skyblue;
+	padding: 5px;
+	height: 150px;
+	font-family: Comic Sans MS;
+}
+#Photos{
+	height: 3000px;
+	background-color: lightcyan;
+	background-image: url(images/6.jpg);
+	background-size: cover;
+}
+#Footer{
+	clear:both;
+	padding: 5px;
+	height: 80px;
+	background-color: yellow;
+	font-family: Comic Sans MS;
+	font-size: 1.1em;
+	color: #0000f0;
+}	
+.content-table{
+	border-collapse: collapse;
+	border-top-right-radius: 5px;
+}
+.content-table thead th{
+	font-size: 2.0em;
+	font-family: Comic Sans MS;
+	background-color: seagreen;
+	color: white;
+}
+.content-table tbody td{
+	text-align: center;
+	font-size: 1.75em;
+	font-family: Comic Sans MS;
+	font-style: oblique;
+	color: darkblue;
+}
+.content-table tbody tr{
+	border-bottom: seagreen 1.5px solid;
+}
+.center-text{
+	text-align: center;
+}
+
+#body{
+width:1500px;
+height:70px;
+}
+
+#a{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#b{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#c{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#d{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#e{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+#f{
+width:250px;
+height:70px;
+background-color:skyblue;
+float:left;
+font-family:Comic Sans MS;
+text-align:center;
+}
+
+a{
+color:black;
+text-decoration:none;
+font-size: 1.4em;
+}
+
+a:active{
+color:black;
+text-decoration:none;
+}
+
+a:hover{
+color:black;
+font-size: 1.8em;
+border:outset 5px #2E86C1;
+background-color:skyblue;
+}
